@@ -1,0 +1,1 @@
+# NuxtJS test task with TS support
